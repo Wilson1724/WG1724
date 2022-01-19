@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ModeloProyecto.Entidades.Garante" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBAAAEIAQAAAAAAAAABAAAAAAAAEAAAAAQQAAAAAA=</HashCode>
+      <FileName>Entidades\Garante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModeloProyecto.Entidades.MicroEmprendimiento" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAABAAAAAAAAAAAAAAIEAgAIAIIAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entidades\MicroEmprendimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModeloProyecto.Entidades.Microempresario" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgwYAAACAACAIAAAAAAoAAAAAAAIAAAAYAAA=</HashCode>
+      <FileName>Entidades\Microempresario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModeloProyecto.Entidades.Prestamo" Collapsed="true">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAgBAACAABAACIAAAACAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Prestamo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModeloProyecto.Entidades.Banco" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAIAAAAAAAAAAAAAAAAAAAABAIAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Banco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

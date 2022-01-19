@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDB", "ModeloDB\ModeloDB.csproj", "{CBEDA2DE-DE83-4173-9902-B35E11D23EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{095F5DB1-E08C-4DC5-AF13-D6C3EAC6B0D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloProyecto", "ModeloProyecto\ModeloProyecto.csproj", "{F98CB995-F000-4561-8502-90D94D591C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEDA2DE-DE83-4173-9902-B35E11D23EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEDA2DE-DE83-4173-9902-B35E11D23EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEDA2DE-DE83-4173-9902-B35E11D23EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEDA2DE-DE83-4173-9902-B35E11D23EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095F5DB1-E08C-4DC5-AF13-D6C3EAC6B0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095F5DB1-E08C-4DC5-AF13-D6C3EAC6B0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095F5DB1-E08C-4DC5-AF13-D6C3EAC6B0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095F5DB1-E08C-4DC5-AF13-D6C3EAC6B0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98CB995-F000-4561-8502-90D94D591C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98CB995-F000-4561-8502-90D94D591C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98CB995-F000-4561-8502-90D94D591C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98CB995-F000-4561-8502-90D94D591C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B2E57CD-FBC6-4C88-8BAF-57F74D214865}
+	EndGlobalSection
+EndGlobal
